@@ -8,5 +8,6 @@ A diferença de cada uma está no link de consulta:
 
 Para JSON:
 http://dicionario-aberto.net/search-json/palavra
+
 Para XML:
 http://dicionario-aberto.net/search-xml/palavra
