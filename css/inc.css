@@ -1,0 +1,22 @@
+.content {
+	width: 600px;
+}
+
+.btns {
+	width: 300px;
+}
+
+.titleResponseDicionario {
+	font-weight:bold;
+}
+
+.tipeResponseDicionario {
+	font-style:italic;
+}
+
+.responseTranslate {
+	width: 300px;
+	height:auto;
+	border: #000000 solid 1px;
+}
+
